@@ -1,6 +1,6 @@
 <template>
   <div class="add-container">
-    <h1>Get the best restauran ad</h1>
+    <h1>Get the best restaurant</h1>
     <button class="btn btn-primary btn-large">Buy Now</button>
   </div>
 </template>

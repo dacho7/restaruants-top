@@ -6,7 +6,7 @@
           <h1>Page not found</h1>
         </template>
         <template #redirectEl>
-          <NuxtLink to="/">Go Back</NuxtLink>
+          <NuxtLink to="/" class="btn btn-primary">Go Back</NuxtLink>
         </template>
       </NuxtLayout>
     </div>
